@@ -1,0 +1,9 @@
+Building AffiCoin
+
+See doc/readme-qt.rst for instructions on building AffiCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AffiCoin.
+
+See doc/build-*.txt for instructions on building AffiCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AffiCoin.
